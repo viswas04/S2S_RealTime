@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
-    "type": "git",
+    "Type": "git",
     "url": "git+https://github.com/viswas04/S2S_RealTime.git"
   },
   "keywords": [],
